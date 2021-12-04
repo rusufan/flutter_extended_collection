@@ -9,7 +9,7 @@ A flutter package provides collection extentions, like LRU cache.
 ```
 dependencies:
 
-  flutter_extended_collection: ^0.0.1
+  flutter_extended_collection: ^0.0.2
 ```
 
 #### 2. How to use
