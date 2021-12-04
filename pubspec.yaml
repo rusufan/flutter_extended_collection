@@ -1,7 +1,7 @@
 name: flutter_extended_collection
 description: A flutter package provides collection extentions, like LRU cache.
 version: 0.0.1
-homepage:
+homepage: https://github.com/rusufan/flutter_extended_collection
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
